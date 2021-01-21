@@ -1,0 +1,6 @@
+Intel registers
+
+EAX:	Primary acumulator
+EBX:	Base registers (used for maths)
+ECX:	Counter register
+EDX:	Data register
